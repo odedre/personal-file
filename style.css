@@ -1,3 +1,29 @@
-h1 {
-	color:red;
+body {
+	margin: 0;
+}
+
+nav li {
+	display: inline-block;
+}
+
+nav {
+	background-color: gray;
+	position: fixed;
+	width: 100%;
+	top: 0;
+}
+nav li a {
+	padding: 0 20px;
+	color: black;
+	text-decoration: none;
+}
+nav ul {
+	text-align: center;
+}
+
+.back {
+	background: url(https://images.unsplash.com/photo-1464983953574-0892a716854b?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=e25cb9413a836233774f31dcb7f80b33);
+	background-size: cover;
+	height:800px;
+	width:100%;
 }
