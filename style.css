@@ -27,3 +27,46 @@ nav ul {
 	height:800px;
 	width:100%;
 }
+
+.row {
+	width: 100%;
+}
+
+.column {
+  float: left;
+  width: 30%;
+}
+
+.projects {
+	width: 100%
+}
+
+.projectImg {
+	max-width: 500px;
+	padding: 20px;
+	height: 200px;
+}
+
+.inner-column {
+	display: inline-block;
+	width: 100%;
+}
+
+.ad-img {
+	max-width: 500px;
+	padding:20px;
+	height: 200px;
+}
+
+h3 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;	
+}
+
+.about-me {
+	width: 100%;
+	display: inline-block;
+}
